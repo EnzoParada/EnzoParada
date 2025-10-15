@@ -16,7 +16,7 @@ Aquí encontrarás información sobre mis proyectos, habilidades y un poco más 
 - Git
  
 ## 📫 Conéctate Conmigo
-- LinkedIn:
+- LinkedIn:https://www.linkedin.com/in/enzo-parada/
  
 ## 🤝 Contribuciones
 
