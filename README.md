@@ -1,16 +1,14 @@
-## Hi there 👋
+## ¡Hola 👋 soy Enzo
 
-<!--
-**EnzoParada/EnzoParada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub! Soy **Backend Developer** en JAVA.
+Aquí encontrarás información sobre mis proyectos, habilidades y un poco más sobre lo que me apasiona en el desarrollo de software.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Backend** | `Node.js` • `NestJS` • `TypeORM` • `Sequelize` |
+| **Lenguajes** | `JavaScript` • `C#` • `C` |
+| **Bases de Datos** | `MySQL` • `PostgreSQL` |
+| **Frontend** | `TypeScript` • `React` • `TailwindCSS` • `Material UI` • `ShadCN` |
+| **DevOps/Otros** | `Docker` • `Git` • `Jest` • `Jira` |
