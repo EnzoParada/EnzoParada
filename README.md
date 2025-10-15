@@ -14,5 +14,12 @@ Aquí encontrarás información sobre mis proyectos, habilidades y un poco más 
 
 ### Herramientas y Otros
 - Git
-- 
----|
+ 
+## 📫 Conéctate Conmigo
+- LinkedIn:
+ 
+## 🤝 Contribuciones
+
+¡Me encanta trabajar en proyectos interesantes! Si tienes alguna idea, sugerencia o crees que podemos colaborar, no dudes en contactarme.
+
+¡Gracias por visitar mi perfil! Que tengas un excelente día. 😊
