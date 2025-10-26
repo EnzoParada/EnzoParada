@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Enzo Parada
 
-soy un **Backend Developer** en **JAVA**.
+Soy un **Backend Developer** en **JAVA**.
 Aquí encontrarás información sobre mis proyectos, habilidades y un poco más sobre lo que me apasiona en el desarrollo de software.
 
 
