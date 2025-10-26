@@ -1,28 +1,24 @@
 # ¡Hola! 👋 Soy Enzo Parada
 
-**Backend Developer** en **JAVA**.
+soy un **Backend Developer** en **JAVA**.
 Aquí encontrarás información sobre mis proyectos, habilidades y un poco más sobre lo que me apasiona en el desarrollo de software.
 
 
 ---
+## 💻 Habilidades Técnicas
 
-## 🚀 Habilidades Técnicas
-
-| Categoría | Habilidades |
+| Categoría | Tecnologías |
 | :--- | :--- |
-| **Lenguaje Principal** | **Java** |
-| **Frameworks** | Spring Boot |
-| **Bases de Datos** | MySQL, SQLite |
-| **Herramientas & DevOps** | Git, Postman |
+| **Ecosistema Java** | `Java`, `Spring Boot`, `Spring Security`, `Spring Data JPA` |
+| **Bases de Datos** | `MySQL`, `SQLite` |
+| **Herramientas** | `Git`, `Postman` |
 
 ---
 
-## 📫 Conéctate Conmigo
+## 📫 Hablemos
 
-* **LinkedIn:** [in/enzo-parada](https://www.linkedin.com/in/enzo-parada/) 
+¡Siempre estoy abierto a conectar y discutir sobre nuevos proyectos, oportunidades o simplemente charlar sobre tecnología!
 
-## 🤝 Contribuciones
-
-¡Me encanta trabajar en proyectos interesantes! Si tienes alguna idea, sugerencia o crees que podemos colaborar, no dudes en contactarme.
+* **LinkedIn:** [in/enzo-parada](https://www.linkedin.com/in/enzo-parada/)
 
 ¡Gracias por visitar mi perfil! Que tengas un excelente día. 😊
