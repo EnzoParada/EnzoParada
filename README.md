@@ -24,7 +24,7 @@ Un sistema completo que desarrollé, dividido en sus componentes principales:
 * **[gestor-prestamos-api](https://github.com/EnzoParada/gestor-prestamos-api)**: API RESTful desarrollada en Java con Spring Boot para la gestión de la lógica de negocio y datos.
 * **[GestorDePrestamos-Frontend](https://github.com/EnzoParada/GestorDePrestamos-Frontend)**: Interfaz de usuario simple para consumir la API.
 ### **2. E-commerce**
-Un proyecto de comercio electrónico que demuestra la implementación de arquitectura MVC, lógica de negocio avanzada y persistencia de datos.
+* **[E-commerce](https://github.com/EnzoParada/E-commerce)**:Un proyecto de comercio electrónico que demuestra la implementación de arquitectura MVC, lógica de negocio avanzada y persistencia de datos.
 * **Tecnología principal:** Java.
 ---
 ## 📫 Hablemos
