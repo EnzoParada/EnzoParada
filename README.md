@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/EnzoParada/EnzoParada/main/banner.png)
+
 # ¡Hola! 👋 Soy Enzo Parada
 
 Soy un **Backend Developer** en **JAVA**.
