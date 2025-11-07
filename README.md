@@ -1,5 +1,3 @@
-![Banner](https://raw.githubusercontent.com/EnzoParada/EnzoParada/main/banner.png)
-
 
 # ¡Hola! 👋 Soy Enzo Parada
 
