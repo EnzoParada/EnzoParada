@@ -13,7 +13,7 @@ Aquí encontrarás información sobre mis proyectos, habilidades y un poco más 
 | **Ecosistema Java** | `Java`, `Spring Boot`, `Spring Security`, `Spring Data JPA` |
 | **Bases de Datos** | `MySQL`, `SQLite` |
 | **Herramientas** | `Git`, `Postman` |
-| **Documentación** | **SpringDoc** (OpenAPI 3 / Swagger UI) |
+| **Documentación** | `SpringDoc` (OpenAPI 3 / Swagger UI) |
 | **Frontend** | `JavaScript` (Para interfaces de usuario) |
 
 ---
